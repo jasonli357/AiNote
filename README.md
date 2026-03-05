@@ -104,11 +104,11 @@ AiNote/
 ├── 1_navigation/       # 外部资源索引
 ├── 2_ideas/            # 想法笔记
 ├── 3_profile/          # 个人信息
-├── 4_teaching/         # 教学材料
-├── 5_meetings/         # 会议记录
-├── 6_research/         # 研究笔记
-├── 7_admin/            # 行政文档
-├── 8_code/             # 代码片段
+├── 4_schedule/         # 日程管理
+├── 5_ai-tools/         # AI工具使用说明
+├── 6_theory/           # 数学、经济学理论
+├── 7_papers/           # 论文阅读
+├── 8_writing/          # 论文写作
 ├── 9_attachments/      # 附件
 ├── 10_bookmarks/       # 书签
 ├── workspace/          # 临时文件

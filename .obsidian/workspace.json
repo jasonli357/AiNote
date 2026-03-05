@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "system_config/takenote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "takenote"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "system_config/takenote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "takenote 的反向链接列表"
             }
           },
           {
@@ -185,10 +185,16 @@
   },
   "active": "ca2957b392c0fcc1",
   "lastOpenFiles": [
+    "5_ai-tools/_index.md.tmp.591.1772712927026",
+    "5_ai-tools/创建Claude Code Command经验.md",
+    "5_ai-tools/创建Claude Code Command经验.md.tmp.591.1772712919922",
+    "workspace/script_gencommand.md",
+    "README.md",
     "system_config/takenote.md",
+    "README_EN.md.tmp.6618.1772700089634",
+    "README.md.tmp.6618.1772700049105",
     "system_config/templates.md",
     "CLAUDE.md",
-    "README.md",
     "5_ai-tools/Example AI Tool Note.md",
     "CLAUDE.md.tmp.6618.1772697448138",
     "CLAUDE.md.tmp.6618.1772697443590",
@@ -202,11 +208,8 @@
     "4_schedule/学期计划.md",
     "4_schedule/学期计划.md.tmp.6618.1772697362245",
     "4_schedule/待办清单.md",
-    "4_schedule/待办清单.md.tmp.6618.1772697361890",
     "4_schedule/日程表.md",
-    "4_schedule/日程表.md.tmp.6618.1772697361548",
     "8_writing/_index.md",
-    "8_writing/_index.md.tmp.6618.1772697317862",
     "7_papers/_index.md",
     "6_theory/_index.md",
     "5_ai-tools/_index.md",
@@ -217,9 +220,6 @@
     "1_navigation/_index.md",
     "1_navigation/Example External Index.md",
     "3_profile/Current Status.md",
-    "system_config/lessons_learned.md",
-    "system_config/README.md",
-    "README_EN.md",
-    "6_research/Example Research Note.md"
+    "system_config/lessons_learned.md"
   ]
 }

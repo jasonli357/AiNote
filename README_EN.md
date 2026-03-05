@@ -135,11 +135,11 @@ AiNote/
 ├── 1_navigation/       # 🗺️ External resource indexes
 ├── 2_ideas/            # 💡 Ideas and thoughts
 ├── 3_profile/          # 👤 Personal profile & status
-├── 4_teaching/         # 🎓 Teaching materials
-├── 5_meetings/         # 🤝 Meeting notes
-├── 6_research/         # 🔬 Research notes
-├── 7_admin/            # 📊 Administrative docs
-├── 8_code/             # 💻 Code snippets
+├── 4_schedule/         # 📅 Schedule management
+├── 5_ai-tools/         # 🤖 AI tools documentation
+├── 6_theory/           # 📚 Mathematics & economics theory
+├── 7_papers/           # 📄 Academic paper reading
+├── 8_writing/          # ✍️ Academic writing projects
 ├── 9_attachments/      # 📎 Images, PDFs, files
 ├── 10_bookmarks/       # 🔖 Web bookmarks
 ├── workspace/          # 🛠️ Temp & AI outputs
