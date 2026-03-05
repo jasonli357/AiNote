@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_ideas/Example Idea Note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Idea Note"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system_config/lessons_learned.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "lessons_learned 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -185,12 +185,14 @@
   },
   "active": "ca2957b392c0fcc1",
   "lastOpenFiles": [
+    "2_ideas/AI原生笔记系统作为个性化学习中心.md",
+    "README.md",
+    "3_profile/Personal Profile.md",
+    "2_ideas/Example Idea Note.md",
     "1_navigation/_index.md",
     "1_navigation/Example External Index.md",
     "system_config/takenote.md",
-    "README.md",
     "3_profile/Current Status.md",
-    "3_profile/Personal Profile.md",
     "system_config/lessons_learned.md",
     "system_config/README.md",
     "CLAUDE.md",

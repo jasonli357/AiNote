@@ -5,7 +5,7 @@ argument-hint: <note content>
 
 # Take Note
 
-Use the xai agent with ultrathink to process and file a note in the Obsidian vault.
+Process and file a note in the Obsidian vault.
 
 ## Input
 
@@ -13,11 +13,10 @@ $ARGUMENTS
 
 ## Instructions
 
-1. Invoke the Task tool with `subagent_type: "xai"` and ultrathink mode
-2. The xai agent must first read @D:/Git_clone/AiNote/CLAUDE.md for note-taking guidelines
-3. Think deeply as Jason about the content
-4. Create the note following the vault's Note Processing Workflow
-5. Report what was created and where
+1. First, read @D:/Git_clone/AiNote/CLAUDE.md for note-taking guidelines.
+2. Think deeply about the content, analyzing its topic, keywords, and note type.
+3. Create the note strictly following the vault's Note Processing Workflow defined in CLAUDE.md.
+4. Report exactly what was created, which folder it was placed in, and any links that were added.
 
 ## Vault
 
