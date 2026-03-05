@@ -24,11 +24,11 @@ ai-takenote/
 ├── 1_navigation/     # External file index (optional)
 ├── 2_ideas/          # Ideas, thoughts, AI notes
 ├── 3_profile/        # Personal profile & status
-├── 4_teaching/       # Teaching materials
-├── 5_meetings/       # Meeting notes
-├── 6_research/       # Research notes
-├── 7_admin/          # Admin reports
-├── 8_code/           # Code snippets
+├── 4_schedule/       # Schedule management (calendar, to-do, semester plans)
+├── 5_ai-tools/       # AI tools documentation and usage guides
+├── 6_theory/         # Mathematics and economics theory notes
+├── 7_papers/         # Academic paper reading notes
+├── 8_writing/        # Academic writing projects and drafts
 ├── 9_attachments/    # Attachments (images, PDFs)
 ├── 10_bookmarks/     # Web bookmarks
 ├── workspace/        # Temp files & AI outputs
@@ -50,7 +50,10 @@ ai-takenote/
 Use sparingly. Primary tags in frontmatter (type, status); contextual tags inline.
 
 ```text
-#type/idea    #type/reference    #status/draft    #project/main
+#type/idea    #type/reference    #type/schedule    #type/ai-tool
+#type/theory  #type/paper        #type/writing
+#status/draft    #status/active    #status/reading
+#project/main
 ```
 
 ### Maps of Content
